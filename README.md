@@ -38,7 +38,7 @@ test-selenium-python/
 
 ## 🔐 Configuración del Entorno
 
-Antes de ejecutar las pruebas, es necesario crear un archivo `.env` en la raíz del proyecto con las siguientes credenciales:
+Antes de ejecutar las pruebas, es necesario crear un archivo `.env` en la raíz del proyecto.
 
 ```env
 SAUCE_DEMO_USERNAME=user
