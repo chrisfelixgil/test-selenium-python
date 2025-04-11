@@ -41,8 +41,8 @@ test-selenium-python/
 Antes de ejecutar las pruebas, es necesario crear un archivo `.env` en la raíz del proyecto.
 
 ```env
-SAUCE_DEMO_USERNAME=user
-SAUCE_DEMO_PASSWORD=password
+SAUCE_DEMO_USERNAME=standard_user
+SAUCE_DEMO_PASSWORD=secret_sauce
 ```
 
 ## 🚀 Cómo Ejecutar las Pruebas
