@@ -1,3 +1,55 @@
 # Archivos de configuración de usuario en Visual Studio
 .vscode/
 .env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env/
+.venv/
+
+# Selenium
+geckodriver.log
+chromedriver.log
+*.log
+
+# IDE
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Test reports and coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
